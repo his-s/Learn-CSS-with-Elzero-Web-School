@@ -1,7 +1,10 @@
-body {
+div {
   background-color: green;
   background-color: rgb(256, 0, 0);
   background-color: #0000ff;
   background-image: url(../imgs/img_1.png);
-  background-repeat: revert;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: left;
+  background-size: 200px 200px;
 }
