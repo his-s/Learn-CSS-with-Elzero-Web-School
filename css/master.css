@@ -1,15 +1,15 @@
 div {
-  background-color: wheat;
-  width: 70%;
-  margin: 20px;
-  padding: 50px;
+  background-color: blueviolet;
+  width: 500px;
+  margin: auto;
+  padding: 20px;
+  background-color: rgb(138, 43, 226);
+  background-color: hsl(hue, saturation, lightness);
+  background-color: #8a2be2;
 }
-.first {
-  /* visibility: hidden; */
-  visibility: visible;
+.assign-1-shape-2 {
+  background-color: rgb(138, 43, 226, 0.5);
 }
-
-.second {
-  /* display: none; */
-  display: block;
+.assign-1-shape-3 {
+  background-color: rgb(138, 43, 226, 0.1);
 }
