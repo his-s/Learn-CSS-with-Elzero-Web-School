@@ -1,26 +1,12 @@
-div {
-  background-color: gainsboro;
-  margin: 20px;
-  border-width: 5px;
-  outline: 15px solid gainsboro;
+div p {
+  color: green;
+  background-color: #eee;
 }
-h2 {
-  display: inline-block;
-  margin-left: 15px;
-}
-
-.shape-2 {
-  visibility: hidden;
-}
-.shape-1 {
-  border-left: palevioletred solid 10px;
-}
-.shape-3 {
-  border-left: teal solid 10px;
-}
-
-.shape-1,
-.shape-2,
-.shape-3 {
+p {
+  color: blue;
   background-color: orange;
+}
+
+p {
+  height: 60px;
 }
