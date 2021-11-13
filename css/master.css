@@ -18,3 +18,9 @@ h2 {
 .shape-3 {
   border-left: teal solid 10px;
 }
+
+.shape-1,
+.shape-2,
+.shape-3 {
+  background-color: orange;
+}
