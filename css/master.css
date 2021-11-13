@@ -2,27 +2,19 @@ div {
   background-color: gainsboro;
   margin: 20px;
   border-width: 5px;
-  height: 80px;
-  padding: auto;
+  outline: 15px solid gainsboro;
 }
 h2 {
-  margin: auto;
   display: inline-block;
-  text-align: center;
+  margin-left: 15px;
 }
 
 .shape-2 {
   visibility: hidden;
 }
-
-span {
-  display: inline-block;
-  background-color: hotpink;
-  width: 10px;
-  height: 60px;
-  margin: auto;
+.shape-1 {
+  border-left: palevioletred solid 10px;
 }
-.span-1 {
-  display: inline-block;
-  background-color: hotpink;
+.shape-3 {
+  border-left: teal solid 10px;
 }
