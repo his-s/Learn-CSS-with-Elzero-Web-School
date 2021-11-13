@@ -4,11 +4,12 @@ div {
   margin: 20px;
   padding: 50px;
 }
-span {
-  display: inline-block;
-  padding: 15px;
-  margin: 20px;
-  width: 60px;
-  height: 20px;
-  background-color: wheat;
+.first {
+  /* visibility: hidden; */
+  visibility: visible;
+}
+
+.second {
+  /* display: none; */
+  display: block;
 }
