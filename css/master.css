@@ -5,15 +5,17 @@ div {
   height: 400px;
   margin: 20px;
 }
-.assign-2-shape-1 {
+.assign-3-shape-1 {
   background-repeat: no-repeat;
 }
-.assign-2-shape-2 {
+.assign-3-shape-2 {
   background-repeat: repeat-y;
+  background-position: right;
 }
-.assign-2-shape-3 {
+.assign-3-shape-3 {
   background-repeat: repeat-x;
+  background-position: bottom;
 }
-.assign-2-shape-4 {
+.assign-3-shape-4 {
   background-repeat: repeat;
 }
