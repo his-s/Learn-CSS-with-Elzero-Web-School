@@ -1,11 +1,14 @@
 div {
   background-color: wheat;
   width: 70%;
-  margin: auto;
+  margin: 20px;
   padding: 50px;
-  border: 5px solid indigo;
-  border-style: dashed;
-  border-width: 3px;
-  border-color: blue;
-  outline: 9px dashed orange;
+}
+span {
+  display: inline-block;
+  padding: 15px;
+  margin: 20px;
+  width: 60px;
+  height: 20px;
+  background-color: wheat;
 }
