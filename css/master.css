@@ -7,4 +7,5 @@ div {
   border-style: dashed;
   border-width: 3px;
   border-color: blue;
+  outline: 9px dashed orange;
 }
