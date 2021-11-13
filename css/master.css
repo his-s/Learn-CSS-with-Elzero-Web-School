@@ -1,5 +1,6 @@
 div {
   background-color: wheat;
   width: 70%;
-  padding: auto;
+  margin: auto;
+  padding: 50px;
 }
