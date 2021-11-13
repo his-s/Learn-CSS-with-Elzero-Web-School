@@ -1,10 +1,10 @@
-div {
-  min-width: 150px;
-  min-height: 10px;
-  max-width: 200px;
-  max-height: 15px;
-  background-color: #eee;
-  padding: 20px;
-  border: 2px solid orange;
-  width: fit-content;
+.parent .child .title {
+  color: red;
+}
+.parent .title {
+  color: blue;
+}
+.parent p,
+.title {
+  color: green;
 }
