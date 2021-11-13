@@ -1,20 +1,28 @@
 div {
-  display: inline-block;
-  background-color: whitesmoke;
-  outline: black solid 5px;
-  padding: 20px;
+  background-color: gainsboro;
   margin: 20px;
   border-width: 5px;
+  height: 80px;
+  padding: auto;
 }
-.shape-1 {
-  border: 5px solid red;
+h2 {
+  margin: auto;
+  display: inline-block;
+  text-align: center;
 }
 
 .shape-2 {
-  border-style: solid;
-  border-color: blue green;
+  visibility: hidden;
 }
-.shape-3 {
-  border-style: dashed;
-  border-color: red green blue yellow;
+
+span {
+  display: inline-block;
+  background-color: hotpink;
+  width: 10px;
+  height: 60px;
+  margin: auto;
+}
+.span-1 {
+  display: inline-block;
+  background-color: hotpink;
 }
