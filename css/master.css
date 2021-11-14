@@ -1,20 +1,25 @@
 p {
-  font-size: 60px;
   text-align: center;
+  font-weight: 700;
 }
 .one {
-  font-style: italic;
-  font-weight: 300;
+  font-size: 2.5rem;
+  /* uncomment code below to understand there is now differance  */
+  /* font-size: 50px;  */
   font-family: "Open Sans", sans-serif;
   text-transform: capitalize;
 }
 .two {
-  font-weight: 700;
-  font-family: "Cairo", sans-serif;
+  font-size: 2rem;
+  /* uncomment code below to understand there is now differance  */
+  /* font-size: 40px;  */
+  font-family: "Open Sans", sans-serif;
   text-transform: capitalize;
 }
 .three {
-  font-family: "Jomhuria", cursive;
-  font-weight: 400;
+  font-size: 1.5rem;
+  /* uncomment code below to understand there is now differance  */
+  /* font-size: 30px;  */
+  font-family: "Open Sans", sans-serif;
   text-transform: capitalize;
 }
