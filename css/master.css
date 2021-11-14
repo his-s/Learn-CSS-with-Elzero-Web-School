@@ -1,10 +1,5 @@
 div {
-  max-width: 400px;
-  max-height: 50px;
-  width: fit-content;
-  background-color: darkred;
-  color: white;
-  padding: 20px;
-  margin: 20px;
-  overflow: hidden;
+  text-shadow: 3px 5px red, 6px 10px cornflowerblue, 10px 15px indigo;
+  font-family: sans-serif;
+  font-size: 150px;
 }
