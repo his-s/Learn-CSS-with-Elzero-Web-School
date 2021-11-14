@@ -1,14 +1,13 @@
-a {
+div {
+  padding: 20px;
+  border: 3px solid orange;
   text-align: center;
-  display: block;
-  margin: auto;
-  color: white;
-  background-color: lightseagreen;
+  font-family: Arial, Helvetica, sans-serif;
   width: fit-content;
-  padding: 10px;
-  text-transform: capitalize;
-  font-family: sans-serif;
-  font-weight: bold;
-  text-decoration: none;
-  border-bottom: 5px solid darkslategray;
+}
+
+div p {
+  background-color: #eee;
+  padding: inherit;
+  border: inherit;
 }
